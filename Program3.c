@@ -1,4 +1,4 @@
-//Program to to recognize a toke (RELOP)
+//Program to to recognize a token (RELOP)
 #include <stdio.h>
 #include <string.h>
 struct Token
