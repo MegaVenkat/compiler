@@ -1,3 +1,4 @@
+//Program to find first and follow
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>

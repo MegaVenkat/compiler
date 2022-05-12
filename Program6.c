@@ -1,3 +1,4 @@
+//Program to remove left factoring
 #include<stdio.h>  
 #include<string.h>  
   int main()  
